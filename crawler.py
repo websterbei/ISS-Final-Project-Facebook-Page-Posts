@@ -7,7 +7,7 @@ import requests
 
 #hcUrl = "https://graph.facebook.com/DonaldTrump/feed?access_token=1808895612725183|Fjm00832L4zLhnqg4mwI7x3uHCU"
 
-hcUrl = "https://graph.facebook.com/drjillstein/feed?access_token=1808895612725183|Fjm00832L4zLhnqg4mwI7x3uHCU"
+#hcUrl = "https://graph.facebook.com/drjillstein/feed?access_token=1808895612725183|Fjm00832L4zLhnqg4mwI7x3uHCU"
 
 #hcUrl = "https://graph.facebook.com/govgaryjohnson/feed?access_token=1808895612725183|Fjm00832L4zLhnqg4mwI7x3uHCU"
 
